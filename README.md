@@ -12,12 +12,13 @@ Para utilizar o código no navegador, é necessário criar um servidor local usa
 # Como resolvi o desafio
 
 Utilizei de HTML, CSS e Javascript para solucionar o problema.
--   | Count
---------- | ------
-Number of Stars | 315
-Number of Meteors | 328
-Meteors falling on the Water | 105
-Hidden Phrase (optional) | n/a
+|   | Count |
+| ------------- | ------------- |
+| Number of Stars | 315  |
+| Number of Meteors | 328  |
+| Meteors falling on the Water | 105  |
+| Hiden Phrase | n/a  |
+
 
 
 ## Criando um canvas
